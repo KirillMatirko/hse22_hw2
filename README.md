@@ -114,35 +114,35 @@
 
 ##### scaffold29_cov590: 99.929%
 
-<ins>Allignment for rRNA_3423993...3424109:
+##### <ins>Allignment for rRNA_3423993...3424109:
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold32_cov590: 100.000%
+##### scaffold32_cov590: 100.000%
 
-<ins>Allignment for rRNA_3424290...3427177:
+##### <ins>Allignment for rRNA_3424290...3427177:
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold1_cov231: 99.965%
+##### scaffold1_cov231: 99.965%
 
-scaffold32_cov590: 100.000%
+##### scaffold32_cov590: 100.000%
 
-scaffold38_cov590: 100.000%
+##### scaffold38_cov590: 100.000%
 
-scaffold46_cov624: 100.000%
+##### scaffold46_cov624: 100.000%
 
-<ins>Allignment for rRNA_3427427...3428966:
+##### <ins>Allignment for rRNA_3427427...3428966:
 
-scaffold1_cov231: 99.935%
+##### scaffold1_cov231: 99.935%
 
-scaffold1_cov231: 99.870%
+##### scaffold1_cov231: 99.870%
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold29_cov590: 99.929%
+##### scaffold29_cov590: 99.929%
 
