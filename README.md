@@ -20,13 +20,13 @@
 
 ##### <ins>Allignment for rRNA_341494...343033:
 
-#####scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-#####scaffold1_cov231: 99.935%
+##### scaffold1_cov231: 99.935%
 
-scaffold1_cov231: 100.000%
+##### scaffold1_cov231: 100.000%
 
-scaffold29_cov590: 100.000%
+##### scaffold29_cov590: 100.000%
 
 <ins>Allignment for rRNA_343487...346374:
 
