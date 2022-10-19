@@ -18,7 +18,7 @@
 
 #### 5. Сходства между рибосомальными РНК:
 
-Allignment for rRNA_341494...343033:
+<ins>Allignment for rRNA_341494...343033:
 
 scaffold1_cov231: 100.000%
 
