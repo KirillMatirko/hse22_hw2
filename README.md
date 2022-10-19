@@ -4,7 +4,9 @@
 
 #### 2. Аннотирование генома https://colab.research.google.com/drive/1-_raHyzaehVd6zsvfH5DHpgFhGB_Phpb?usp=sharing
 
-#### 3. Статистика
+#### 3. Бонусная часть https://colab.research.google.com/drive/1PVDqGgy5oAN8fPArmAX5z8rrI4towQDW?usp=sharing
+
+#### 4. Статистика
 
 ##### Число генов: 3614
 
